@@ -180,6 +180,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="ChildView.h" />
+    <ClInclude Include="CRemote.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="Remote Server.h" />
     <ClInclude Include="Resource.h" />
@@ -188,6 +189,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ChildView.cpp" />
+    <ClCompile Include="CRemote.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="Remote Server.cpp" />
     <ClCompile Include="stdafx.cpp">
